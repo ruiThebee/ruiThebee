@@ -1,4 +1,9 @@
-## Hi there 👋
+
+
+<img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/5bfe64db-213b-4172-a791-8c2bf7b82334" />
+
+
+  co ! / https://rentry.co/sonadowing
 
 <!--
 **ruiThebee/ruiThebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
